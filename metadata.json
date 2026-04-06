@@ -1,0 +1,5 @@
+{
+  "name": "AgriAI",
+  "description": "AI-powered agricultural decision platform for farmers and service providers.",
+  "requestFramePermissions": ["geolocation"]
+}
